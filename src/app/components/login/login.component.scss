@@ -1,0 +1,29 @@
+.login-card {
+    max-width: 500px;   
+    margin-top: 50px;
+    text-align: center;
+  }
+
+mat-card {
+    max-width: 400px;
+    margin: auto;
+    margin-top: 50px;
+  }
+
+.container, .centered-card{
+    padding:  50px;
+}
+.container, .centered-card, h1 {
+    color: #f11048;
+    align-self: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.full-width-button {
+    width: 100%;
+  }
+
+  
